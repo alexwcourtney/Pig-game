@@ -5,3 +5,6 @@ Pig Rules:
 - However, if a player rolls a 1, their round's score is forefit, and the next player goes.
 - The player can, at any time their current round's score is greater than 0, opt to 'Hold', which adds their current round's score to their total score and changes turns.
 - The first player to 100 points in their total score wins the game.
+
+
+- To play this game, open the file called 'index.html'
